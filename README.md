@@ -18,8 +18,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=asalaschenko&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=asalaschenko&theme=default&utcOffset=8)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
-
 <!--
 **asalaschenko/asalaschenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
