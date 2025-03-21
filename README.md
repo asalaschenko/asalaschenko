@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=asalaschenko)
+
 ## Hi there, i'm Alexey 👋
 
 Я занимаюсь изучением и разработкой бэкенда на языке Golang.
